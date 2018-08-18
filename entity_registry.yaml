@@ -1,0 +1,10 @@
+media_player.living_room:
+  config_entry_id:
+  name:
+  platform: apple_tv
+  unique_id: 747ddfba2ed5a6cb0f9b0f524b067f4cf319c8f2ce3c5e083c7a53ebae8af88e
+remote.living_room:
+  config_entry_id:
+  name:
+  platform: apple_tv
+  unique_id: 747ddfba2ed5a6cb0f9b0f524b067f4cf319c8f2ce3c5e083c7a53ebae8af88e
